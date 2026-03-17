@@ -78,7 +78,7 @@ Yucheng Ruan, Ling Huang,  **Qianyi Xu**, Mengling Feng
 - *2019.08* NTU Science and Engineering Undergraduate Scholarship
 
 # 📖 Educations
-- *2013.08 - Present*, National University of Singapore (NUS), Ph.D. at Saw Swee Hock School of Public Health, supervised by Prof. Feng Mengling. 
+- *2023.08 - Present*, National University of Singapore (NUS), Ph.D. at Saw Swee Hock School of Public Health, supervised by Prof. Feng Mengling. 
 - *2019.08 - 2023.06*, Nanyang Technological University (NTU), B.E. at School of Electrical and Electronic Engineering (GPA: 4.81/5.00). 
 
 <!-- # 💬 Invited Talks
@@ -96,5 +96,6 @@ Moderator
 - *2024.12*, IMAGINE AI WISTA. 
 
 # 💻 Internships
+- *2022.06 - 2022.08*, [EPFL](https://vilab.epfl.ch/), Lausanne, Switzerland.
 - *2021.12 - 2022.05*, [Huawei](https://www.linkedin.com/company/huawei-singapore/?originalSubdomain=sg), Singapore.
 - *2020.08 - 2022.10*, [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), Singapore
